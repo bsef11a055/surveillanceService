@@ -1,0 +1,13 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SurveillanceServices.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SQLSERVER_CONNECTION_STRING" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Server=cd713c87-fc3d-4e38-a321-a41b0110a1ab.sqlserver.sequelizer.com;Database=dbcd713c87fc3d4e38a321a41b0110a1ab;User ID=mkmkemlbbvayvwup;Password=r4fvczhipub7aypnWXji6w2oeqNajq5DSWQPRLwcpvjYBCbKJVibRNM4cZrUUh78;&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Server=cd713c87-fc3d-4e38-a321-a41b0110a1ab.sqlserver.sequelizer.com;Database=dbcd713c87fc3d4e38a321a41b0110a1ab;User ID=mkmkemlbbvayvwup;Password=r4fvczhipub7aypnWXji6w2oeqNajq5DSWQPRLwcpvjYBCbKJVibRNM4cZrUUh78;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
